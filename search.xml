@@ -15,6 +15,31 @@
     </entry>
     
     
+    
+    <entry>
+      <title>typora-vue-theme主题介绍</title>
+      <link href="/2018/09/07/shi-xi-ri-ji-001/"/>
+      <url>/2018/09/07/shi-xi-ri-ji-001/</url>
+      
+        <content type="html"><![CDATA[<p>this is the content</p><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> Web Development </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ElementUI--Collapse </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
